@@ -1,2 +1,1 @@
-# Oracle-Jet-Journey-
-Oracle JavaScript Extension Toolkit (JET)
+# Oracle JavaScript Extension Toolkit (JET)
