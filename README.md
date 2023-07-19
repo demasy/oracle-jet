@@ -1,4 +1,4 @@
-# Oracle JavaScript Extension Toolkit (JET)
+# JavaScript Extension Toolkit (Oracle JET)
 
 <br>
 
