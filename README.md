@@ -7,3 +7,19 @@
 
 - Virtual DOM Architecture
 - Model View ViewModel (MVVM) Architecture 
+
+<br>
+
+## Installation
+
+For web app development, install this module as follows:
+
+``
+npm install -g @oracle/ojet-cli
+``
+
+For hybrid mobile app development, install it together with Cordova:
+
+``
+npm install -g @oracle/ojet-cli cordova
+``
