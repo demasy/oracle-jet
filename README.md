@@ -12,6 +12,8 @@
 
 ## Installation
 
+**Install Oracle JET Tooling** [^1]
+
 For web app development, install this module as follows:
 
 ``
@@ -23,3 +25,7 @@ For hybrid mobile app development, install it together with Cordova:
 ``
 npm install -g @oracle/ojet-cli cordova
 ``
+
+
+##### References
+[^1]: <a href="https://github.com/oracle/ojet-cli">ojet-cli</a>
